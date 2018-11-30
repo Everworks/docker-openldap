@@ -1,0 +1,16 @@
+dn: uid=john@example.org,dc=example,dc=org
+changetype: add
+uid: john@example.org
+cn: john
+sn: 3
+objectClass: top
+objectClass: posixAccount
+objectClass: inetOrgPerson
+loginShell: /bin/bash
+homeDirectory: /home/john
+uidNumber: 14583105
+gidNumber: 14564100
+userPassword: {SSHA}j3lBh1Seqe4rqF1+NuWmjhvtAni1JC5A
+mail: john@example.org
+givenname: John Crack
+gecos: John User

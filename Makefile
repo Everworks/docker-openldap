@@ -1,4 +1,4 @@
-NAME = osixia/extend-osixia-openldap
+NAME = everworks/openldap-okta
 VERSION = 0.1.0
 
 .PHONY: all build build-nocache

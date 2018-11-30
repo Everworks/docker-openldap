@@ -1,0 +1,4 @@
+dn: cn=ldap_qualio_normal,ou=groups,dc=example,dc=org
+objectClass: top
+objectClass: posixGroup
+gidNumber: 678
